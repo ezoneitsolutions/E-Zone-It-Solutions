@@ -56,10 +56,12 @@
 
 
 
-<h3 align="right"><br>Connect with us :
-<a href="https://www.linkedin.com/in/e-zone-it-solutions" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="E Zone IT Solution" height="25" width="30" /></a>
+![MasterHead](https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C200&size=25&center=true&vCenter=true&height=60&width=600&lines=Coding+is+the+modern-day+equivalent+of+magic!;Happy+coding!" alt="Title"></img>
 </div>
+<h3 align="right"><br>Connect with us :
+<a href="https://www.linkedin.com/in/e-zone-it-solutions" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="E Zone IT Solution" height="25" width="30" /></a>
