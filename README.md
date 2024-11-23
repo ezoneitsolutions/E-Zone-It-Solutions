@@ -52,14 +52,14 @@
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bootstrap,sqlite,docker,git,gitlab,stackoverflow,ai,ps,pr,xd,figma,arduino&perline=20" /></a> </p>
 
 <br>
-<a href="#WishwaDissanayaka-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=WishwaDissanayaka&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="WishwaDissanayaka" align="center" /> </a>
+<a href="#ezoneitsolutions-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ezoneitsolutions&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="ezoneitsolutions" align="center" /> </a>
 
 <a href="#WishwaDissanayaka-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDissanayaka&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="WishwaDissanayaka" align="right" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezoneitsolutions&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="ezoneitsolutions" align="right" />
 </a>
 
 <h3 align="right"><br>Connect with us :
 <a href="https://www.linkedin.com/in/e-zone-it-solutions" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wishwa dissanayake" height="25" width="30" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="E Zone IT Solution" height="25" width="30" /></a>
   
