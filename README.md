@@ -55,11 +55,12 @@
 <a href="#ezoneitsolutions-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ezoneitsolutions&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="ezoneitsolutions" align="center" /> </a>
 
-<a href="#WishwaDissanayaka-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezoneitsolutions&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="ezoneitsolutions" align="right" />
-</a>
+
 
 <h3 align="right"><br>Connect with us :
 <a href="https://www.linkedin.com/in/e-zone-it-solutions" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="E Zone IT Solution" height="25" width="30" /></a>
-  
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C200&size=25&center=true&vCenter=true&height=60&width=600&lines=Coding+is+the+modern-day+equivalent+of+magic!;Happy+coding!" alt="Title"></img>
+</div>
