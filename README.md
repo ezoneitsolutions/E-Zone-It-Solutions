@@ -59,17 +59,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDissanayaka&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="WishwaDissanayaka" align="right" />
 </a>
 
-<h3 align="right"><br>Connect with me :
-<a href="https://www.linkedin.com/in/wishwa-dissanayaka0916" target="blank">
+<h3 align="right"><br>Connect with us :
+<a href="https://www.linkedin.com/in/e-zone-it-solutions" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wishwa dissanayake" height="25" width="30" /></a>
   
-<a href="https://https://https://www.facebook.com/people/Wishwa-Dissanayake" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wishwa dissanayake" height="25" width="30" /></a>
-
-<a href="https://" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feed hub" height="30" width="35" /></a>
-</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C200&size=25&center=true&vCenter=true&height=60&width=600&lines=Coding+is+the+modern-day+equivalent+of+magic!;Happy+coding!" alt="Title"></img>
-</div>
